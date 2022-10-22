@@ -1,7 +1,7 @@
 # Animated-Logo-Card-Effect-Using-CSS
 ## Website
 
-- [GlassMorphism](https://technoid-ark.github.io/Animated-Logo-Card-Effect-Using-CSS/)
+- [Animated-Logo-Card-Effect-Using-CSS](https://technoid-ark.github.io/Animated-Logo-Card-Effect-Using-CSS/)
 
 
 ## Screenshots
